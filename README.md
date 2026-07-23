@@ -7,7 +7,8 @@ This repository contains Java projects that I built while learning Java and Obje
 ```
 Java-OOP-Projects
 ├── CoffeeMachine
-└── ShapeMetricCalculator
+├── ShapeMetricCalculator
+└── SideKick
 ```
 
 ## 🚀 Projects
@@ -19,7 +20,6 @@ A Java application that simulates preparing different coffee drinks.
 **Concepts Learned**
 - Classes & Objects
 - Constructors
-- Encapsulation
 - Inheritance
 - Polymorphism
 - Method Overriding
@@ -35,6 +35,18 @@ A Java application that calculates measurements for different geometric shapes.
 - Methods
 - Constructors
 - Encapsulation
+
+---
+
+### 🤖 SideKick
+
+A Java Robot practice project focused on implementing encapsulation using private fields, getters, setters, and input validation.
+
+**Concepts Learned**
+- Encapsulation
+- Access Modifiers (`private`, `public`)
+- Getters & Setters
+- Input Validation
 
 ---
 
