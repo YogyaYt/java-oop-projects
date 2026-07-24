@@ -8,7 +8,8 @@ This repository contains Java projects that I built while learning Java and Obje
 Java-OOP-Projects
 ├── CoffeeMachine
 ├── ShapeMetricCalculator
-└── SideKick
+├── SideKick
+└── RobotInheritance
 ```
 
 ## 🚀 Projects
@@ -40,7 +41,7 @@ A Java application that calculates measurements for different geometric shapes.
 
 ### 🤖 SideKick
 
-A Java Robot practice project focused on implementing encapsulation using private fields, getters, setters, and input validation.
+A Java practice project focused on implementing encapsulation using private fields, getters, setters, and input validation.
 
 **Concepts Learned**
 - Encapsulation
@@ -50,12 +51,41 @@ A Java Robot practice project focused on implementing encapsulation using privat
 
 ---
 
+### 🤖 AbstractRobotLab
+
+A Java practice project demonstrating inheritance and abstraction by creating a common `Robot` parent class for different robot types.
+
+**Concepts Learned**
+- Inheritance
+- Abstract Classes
+- Abstract Methods
+- Method Overriding
+- Code Reusability
+
+---
+
 ## 🛠️ Technologies
 
 - Java 21
 - Git
 - GitHub
 - Visual Studio Code
+
+---
+
+## 📚 Topics Covered
+
+- Classes & Objects
+- Constructors
+- Encapsulation
+- Getters & Setters
+- Access Modifiers
+- Inheritance
+- Polymorphism
+- Method Overriding
+- Abstract Classes
+- Abstract Methods
+- Code Reusability
 
 ---
 
